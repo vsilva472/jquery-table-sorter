@@ -1,5 +1,5 @@
 # jQuery Table Sorter
-jQuery Table Sorter is a simple easy to use plugin to sorte tables by columns.
+jQuery Table Sorter is a simple, easy and ready to use plugin to sort tables by columns.
 See [DEMO](http://vsilva472.github.io/jquery-table-sorter) in action.
 
 ## Basic usage
@@ -38,10 +38,10 @@ See [DEMO](http://vsilva472.github.io/jquery-table-sorter) in action.
  ```
  
 ### Specifying columns to be sortable
-jQuery Table Sorter plugin can make be configured to make some (not all) columns sortable, just pass the column(s) selector to plugin.
+jQuery Table Sorter plugin can be configured to make some (not all) columns sortable, just pass the column(s) selector to plugin.
  ```
     /**
-     * This will make all tables sortable by it headers only columns with the class '.sortable' sortable.
+     * This will make all columns with the class '.sortable' sortable of all table
      */
     <script type="text/javascript">
         (function ( $ ) {
@@ -52,8 +52,7 @@ jQuery Table Sorter plugin can make be configured to make some (not all) columns
     </script>
  ```
  ### Changing sort icon indicator
- You can tell to jQuery Table Sorter plugin wich sort icon you like to use, just pass the `arrows` param on the plugin call.
- with html code. See example:
+You can tell to jQuery Table Sorter plugin wich sort icon you like to use. Just pass the arrows param to the plugin call with the desired html code. See example:
  ```
     /**
      * Changing sort indicator icon
@@ -115,4 +114,3 @@ jQuery Table Sorter plugin can make be configured to make some (not all) columns
  
  #### License
  MIT
-
