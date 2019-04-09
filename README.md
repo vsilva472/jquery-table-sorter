@@ -111,6 +111,12 @@ You can tell to jQuery Table Sorter plugin wich sort icon you like to use. Just 
 
 1.0.0 - 2018-10-30
 * Commit Inicial
+
+### Donation
+Help me to improve this project sending me some **HTMLCOIN**  
+Wallet: **[HqgaiK6T1o2JP4p3p34CZp2g3XnSsSdCXp](htmlcoin:HqgaiK6T1o2JP4p3p34CZp2g3XnSsSdCXp?label=Doa%C3%A7%C3%B5es%20Github)**  
+  
+![Doar HTMLCoin](https://www.viniciusdesouza.com.br/img/htmlcoin.png)
  
  #### License
  MIT
